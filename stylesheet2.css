@@ -1,0 +1,42 @@
+stylesheet2.css
+*{
+	font-family:georgia, 'Times New Roman', Times, sherif;
+	color: #574d75
+	text-align:center;
+}
+
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	text-align:center;
+	background-color:#E8CCFF;
+}
+
+nav{
+	background-color:#E075E6;
+	padding: 10 px;
+	margin: 10 px;
+}
+li{
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%
+}
+
+main {
+	background-color:#E8CCFF;
+	padding: 10 px;
+	margin: 10 px;
+}
+
+article {
+	background-color:#E8CCFF;
+	padding: 10 px;
+	margin: 10 px;
+	width: 280 px;
+}
